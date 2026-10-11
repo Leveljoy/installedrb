@@ -5,7 +5,7 @@ import io
 import plotly.graph_objects as go
 from scipy.spatial import distance_matrix
 import numpy as np
-pip install ezdxf
+
 
 st.set_page_config(page_title="Auto Closest Point Connect", layout="wide")
 
